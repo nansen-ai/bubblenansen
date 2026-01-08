@@ -150,4 +150,4 @@ The app uses a Vite proxy to avoid CORS issues. Make sure you're running via `np
 
 ## License
 
-Internal Nansen project.
+MIT License - see [LICENSE](LICENSE) for details.
