@@ -1,6 +1,6 @@
 # BubbleNansen
 
-A token holder visualization app that displays the top holders of any token and their counterparty connections using an interactive bubble map. Powered by the [Nansen API](https://docs.nansen.ai/).
+A token holder visualization app that displays the top holders of any token and their counterparty connections using an interactive bubble map. Powered by the [Nansen API](https://app.nansen.ai/api).
 
 ## Features
 
@@ -17,7 +17,7 @@ A token holder visualization app that displays the top holders of any token and 
 
 - [Node.js](https://nodejs.org/) (v18 or higher recommended)
 - [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
-- A [Nansen API key](https://www.nansen.ai/) with Token God Mode access
+- A [Nansen API key](https://app.nansen.ai/api) with Token God Mode access
 
 ## Getting Started
 
